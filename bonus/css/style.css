@@ -27,7 +27,7 @@ nav a{
     width: 100%;
     position: relative;
 }
-.product.contenuto{
+.product .contenuto{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -39,7 +39,7 @@ section img{
     width: 100%;
     height: auto;
 }
-.descrizione {
+.contenuto .descrizione {
     font-size: 40px;
     text-align: center;
     color: yellow;
