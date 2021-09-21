@@ -32,3 +32,16 @@ section img{
 #firt_section{
     background-color: red;
 }
+
+/* seconda sezione  */
+#second_section{
+    background-color: green;
+}
+
+/* Terza sezione  */
+#third_section{
+    background-color: yellow;
+}
+.product,#third{
+    color:green;
+}
